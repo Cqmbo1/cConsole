@@ -1,6 +1,6 @@
 {
   "bloxd": {
-    "mx": "https://gitea.com/marcus-therman/mx-public/raw/branch/main/client.user.js",
+    "mx": "https://gitea.com/marcus-therman/mx-public/raw/branch/main/client.user.js"
   },
   "voxiom": {
     "Adblocker": "https://update.greasyfork.org/scripts/508457/Voxiom%20Adblocker.user.js"
@@ -9,5 +9,3 @@
     "Cookie Clicker X": "https://raw.githubusercontent.com/Cqmbo1/Cqmbo__-s-Scripts/refs/heads/main/Working%20Scripts/Injection%20(The%20main%20code%20of%20the%20scripts%20in%20Main)/Cookie%20Clicker"
   }
 }
-
-
