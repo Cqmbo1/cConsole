@@ -18,3 +18,9 @@ s.onload = function() {
 
             cc.setTab('network');
         };
+
+
+
+Bookmarklet version:
+
+[`/additional/bookmarklet/bookmarklet.js`](.additional/bookmarklet/bookmarklet.js)
