@@ -21,6 +21,4 @@ s.onload = function() {
 
 
 
-Bookmarklet version:
-
-[`/additional/bookmarklet/bookmarklet.js`](./additional/bookmarklet/bookmarklet.js)
+Bookmarklet version: [`/additional/bookmarklet/bookmarklet.js`](./additional/bookmarklet/bookmarklet.js)
